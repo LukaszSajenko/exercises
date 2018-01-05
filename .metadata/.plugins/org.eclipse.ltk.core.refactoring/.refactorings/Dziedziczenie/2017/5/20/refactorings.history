@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;cwieczenia.rozszerzenie.pady&apos; in &apos;cwieczenia.rozszerzenie&apos;&#x0D;&#x0A;- Original project: &apos;Dziedziczenie&apos;&#x0D;&#x0A;- Original element: &apos;cwieczenia.rozszerzenie.pady&apos;&#x0D;&#x0A;- Getter method name: &apos;getPady&apos;&#x0D;&#x0A;- Setter method name: &apos;setPady&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;pady&apos;" flags="589830" getter="getPady" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;cwieczenia{rozszerzenie.java[rozszerzenie^pady" insertion="0" setter="setPady" stamp="1495052000645" version="1.0" visibility="1"/>
+</session>

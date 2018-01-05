@@ -1,0 +1,12 @@
+package Podstawy_2;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class webinar18grudnia2 {
+
+	public static void main(String[] args) {
+		// klucza, wartoœci, mapa
+		HashMap<String, String> dictionary = new HashMap<String, String>();
+	}
+}

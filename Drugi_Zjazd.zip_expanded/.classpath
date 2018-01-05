@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="01-Hello/src"/>
+	<classpathentry kind="src" path="02-Interakcja/src"/>
+	<classpathentry kind="src" path="03-Podstawy/src"/>
+	<classpathentry kind="src" path="04-Petle/src"/>
+	<classpathentry kind="src" path="05-Okienka/src"/>
+	<classpathentry kind="src" path="06-WindowBuilder/src"/>
+	<classpathentry kind="src" path="07-Kalkulator/src"/>
+	<classpathentry kind="src" path="08-Paliwo/src"/>
+	<classpathentry kind="src" path="09-Grafika/src"/>
+	<classpathentry kind="src" path="P01-Hello/src"/>
+	<classpathentry kind="src" path="P02-Interakcja/src"/>
+	<classpathentry kind="src" path="P03-Podstawy/src"/>
+	<classpathentry kind="src" path="Praca domowa/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="01-Hello/bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+package Podstawy_2;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class webinar18grudnia3 {
+
+	public static void main(String[] args) {
+
+		// quiz
+		
+	}
+}

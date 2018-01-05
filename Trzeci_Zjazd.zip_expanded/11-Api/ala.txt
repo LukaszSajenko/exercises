@@ -1,0 +1,5 @@
+Ala Ola Ela
+Gdańsk Sopot Gdynia
+
+Zdanie: To nie jest mądre, ponieważ to jest głupie.
+Ala;Ola;Ela

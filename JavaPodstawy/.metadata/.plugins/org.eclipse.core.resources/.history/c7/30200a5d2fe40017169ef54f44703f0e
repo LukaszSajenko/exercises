@@ -1,0 +1,27 @@
+package Podstawy_2;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class webinar18grudnia2 {
+
+	public static void main(String[] args) {
+		// klucza, wartoœci, mapa
+		HashMap<String, String> dictionary = new HashMap<String, String>();
+		dictionary.put("Witam", "Hello");
+		dictionary.put("Mama", "Mother)");
+		dictionary.put("Pies", "Dog");
+		dictionary.put("Kot", "Cat");
+		dictionary.put("Komputer", "Computer");
+		
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Podaj wyraz po Polsku");
+		String polishWord = scanner.next();
+		if (dictionary.containsKey(polishWord))) {
+			
+		} else {
+			System.out.println("Nie znaleziono w s³owniku");
+		}
+	}
+}
